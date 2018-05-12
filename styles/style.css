@@ -35,10 +35,10 @@ body, div, h1, h2, form, fieldset, input, textarea, footer, p {
 
 body { 
   
-	-webkit-perspective:700px;
+	-webkit-perspective:800px;
 	background: #ccc url('https://s3-us-west-2.amazonaws.com/s.cdpn.io/144467/bg_out2.png');
 	color: #7c7873;
-    -webkit-animation: bugfix infinite 1s; 
+	-webkit-animation: bugfix infinite 1s; 
 }
 
 @-webkit-keyframes bugfix { 
@@ -48,7 +48,7 @@ body {
 
 p {
 	font-family: 'Satisfy', cursive;
-	font-size: 20px;
+	font-size: 28px;
 	text-shadow: 0 1px 0 #fff;
 	opacity: 0;
 }
@@ -61,7 +61,7 @@ p {
 
 h1{
 	font-family: 'Satisfy', cursive;
-	font-size: 48px;
+	font-size: 58px;
 	margin: 50px 0;
 	text-align: center;
 	text-shadow: 0 1px 0 #fff;
