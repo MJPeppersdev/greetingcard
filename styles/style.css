@@ -48,7 +48,7 @@ body {
 
 p {
 	font-family: 'Satisfy', cursive;
-	font-size: 28px;
+	font-size: 18px;
 	text-shadow: 0 1px 0 #fff;
 	opacity: 0;
 }
@@ -61,7 +61,7 @@ p {
 
 h1{
 	font-family: 'Satisfy', cursive;
-	font-size: 58px;
+	font-size: 52px;
 	margin: 50px 0;
 	text-align: center;
 	text-shadow: 0 1px 0 #fff;
